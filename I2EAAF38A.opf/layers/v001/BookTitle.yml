@@ -1,0 +1,45 @@
+id: 914e6cba52884f8497dec8d83ba7a53d
+annotation_type: BookTitle
+revision: '00001'
+annotations:
+  02dfdaf986e347a2a992d77e594824af:
+    span:
+      start: 0
+      end: 59
+  3478b6cbc85448f39eb8b2c759c9f7c9:
+    span:
+      start: 61
+      end: 78
+  c9ad302122424d84bf7f42b7a47339ee:
+    span:
+      start: 80
+      end: 109
+  0b3f77dbb22448a88bb79a295047b20e:
+    span:
+      start: 111
+      end: 121
+  720632aba2b0430bb4679160cfaf1826:
+    span:
+      start: 579
+      end: 608
+  7cf2d780f6134eee85d6fab39d78cc2e:
+    span:
+      start: 1320
+      end: 1325
+  6c1a30d4f341401e8066090899867f94:
+    span:
+      start: 14477
+      end: 14533
+  952728ca21dd41feb3aa522f3816b4d3:
+    span:
+      start: 132240
+      end: 132308
+local_ids:
+  02dfdaf986e347a2a992d77e594824af: 200000
+  3478b6cbc85448f39eb8b2c759c9f7c9: 200001
+  c9ad302122424d84bf7f42b7a47339ee: 200002
+  0b3f77dbb22448a88bb79a295047b20e: 200003
+  720632aba2b0430bb4679160cfaf1826: 200004
+  7cf2d780f6134eee85d6fab39d78cc2e: 200005
+  6c1a30d4f341401e8066090899867f94: 200006
+  952728ca21dd41feb3aa522f3816b4d3: 200007
