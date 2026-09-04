@@ -16,6 +16,7 @@ ebook_metadata:
   sku: BEN-SH-025
   cover: BEN-SH-025.jpg
 layers:
+- BookNumber
 - BookTitle
 - Chapter
 - Citation
