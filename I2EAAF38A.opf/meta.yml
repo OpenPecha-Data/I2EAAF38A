@@ -8,6 +8,8 @@ source_metadata:
   sku: BEN-SH-025
   cover: BEN-SH-025.jpg
   volume: {}
+  publisher: བན་ཆེན་གསུང་རབ་རྒྱུན་སྤེལ་ཁང་།
+  author_source: none
 ebook_metadata:
   title: ༄༅། །བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མའི་འགྲེལ་བསྡུས་སྐྱེས་བུའི་ལམ་མཆོག
   authors: *id001
